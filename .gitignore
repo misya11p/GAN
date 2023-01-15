@@ -1,6 +1,7 @@
 .*
 !.gitignore
 datasets/*
+!datasets/*.sh
 doc
 results
 data
