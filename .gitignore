@@ -6,3 +6,5 @@ doc
 results
 data
 *.pt
+docs
+!.gitkeep
