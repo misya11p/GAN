@@ -6,5 +6,5 @@ doc
 results
 data
 *.pt
-docs
+docs/*
 !.gitkeep
